@@ -1,0 +1,13 @@
+nombre,clima,mes,forraje,estado
+"Humidicola comum, Tuly o Quicuio da Amazônia",seca,1,7,bueno
+BRS Piatã,seca,2,8,bueno
+"Basilisk, Braquiarinha o Decumbens",seca,3,10,bueno
+"Basilisk, Braquiarinha o Decumbens",transicion,4,5,regular
+"Marandu, Braquiarão o Brizantão",lluvia,5,6,regular
+"Xaraés, MG-5 Vitória o Toledo",lluvia,6,6,regular
+"LIanero, Lhanero o Dictyoneura",lluvia,7,6,regular
+BRS Ipyporã,lluvia,8,6,regular
+"Xaraés, MG-5 Vitória o Toledo",lluvia,9,8,bueno
+"Basilisk, Braquiarinha o Decumbens",lluvia,10,8,bueno
+"Humidicola comum, Tuly o Quicuio da Amazônia",transicion,11,5,regular
+"Humidicola comum, Tuly o Quicuio da Amazônia",seca,12,7,bueno

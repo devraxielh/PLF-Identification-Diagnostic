@@ -1,0 +1,12 @@
+Reglas: 
+------------------------------------------
+[IF edad[novillo] AND dif[medio] THEN estado[enfermo]
+	AND aggregation function : fmin
+	OR aggregation function  : fmax, IF edad[adulto] AND dif[medio] THEN estado[enfermo]
+	AND aggregation function : fmin
+	OR aggregation function  : fmax, IF edad[novillo] AND dif[bajo] THEN estado[enfermo]
+	AND aggregation function : fmin
+	OR aggregation function  : fmax, IF edad[adulto] AND dif[bajo] THEN estado[enfermo]
+	AND aggregation function : fmin
+	OR aggregation function  : fmax]
+------------------------------------------
